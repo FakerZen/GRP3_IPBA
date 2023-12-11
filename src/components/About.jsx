@@ -57,8 +57,7 @@ const About = () => {
         results, we focused on creating engaging tutorial content, ensuring an
         inclusive learning experience. Join us on this educational journey as we
         launch programming tutorials and iterate based on valuable user
-        feedback. Together, let's pave the way for a new generation of confident
-        and skilled programmers!
+        feedback.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
